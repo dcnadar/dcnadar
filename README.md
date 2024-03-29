@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcnadar 
-- 👀 I’m interested in ... android app development
-- 🌱 I’m currently learning ... python, java, kotlin, 
+- 👀 I’m interested in ... Full Stack development
+- 🌱 I’m currently learning ... javascript, java, 
 - 📫 How to reach me- dcnadar0@gmail.com
 
 <!---
